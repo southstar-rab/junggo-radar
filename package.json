@@ -1,6 +1,6 @@
 {
-  "name": "junggo-radar-vercel-mvp",
-  "version": "0.1.0",
+  "name": "junggo-radar-vercel-mvp-v3-mobile-fixed",
+  "version": "0.3.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -12,6 +12,5 @@
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "cheerio": "^1.0.0"
-  },
-  "devDependencies": {}
+  }
 }
