@@ -1,6 +1,6 @@
 {
-  "name": "junggo-radar-vercel-mvp-v3-mobile-fixed",
-  "version": "0.3.0",
+  "name": "junggo-radar-vercel-mvp-v4-api-test",
+  "version": "0.4.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
